@@ -13,7 +13,7 @@ Here is some code
     library(dplyr)
 ` code ` is a way to write code too.
 
-How about a list
+How about a list of things to get at the store
 * milk
 * eggs
 * bread
