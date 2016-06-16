@@ -81,6 +81,7 @@ you can insert things too, like</p>
 <h1 id="header-2">header 2</h1>
 <h2 id="smaller-header">smaller header</h2>
 <h1 id="another">Another</h1>
+<p>here is some addtional material</p>
 <hr class="footnotes-sep">
 <section class="footnotes">
 <ol class="footnotes-list">
