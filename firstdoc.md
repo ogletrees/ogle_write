@@ -4,7 +4,7 @@
 <p><strong>Note:</strong> You can use <em>Markdown</em> to format your text.<br>
 I am writing on classeur.</p>
 </blockquote>
-<p>SO I can write and write and write, all in mark down so it I want to make a heading I can just</p>
+<p>So I can write and write and write, all in mark down so it I want to make a heading I can just</p>
 <h1 id="heading">Heading</h1>
 <p>and keep moving on. I can also do this, <em>italify</em> or <strong>bold</strong><br>
 you can insert things too, like</p>
